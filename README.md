@@ -1,10 +1,8 @@
-## Jeferson Felix
-
-<h3>Hello! 👋😎</h3>
+## Hello! 👋😎
 
 Olá! Meu nome é Jeferson Felix.
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas pela PUC Minas Virtual. 2/5 👨‍💻
+Atualmente cursando Análise e Desenvolvimento de Sistemas pela PUC Minas Virtual. 3/5 👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,github)](https://skillicons.dev)
 
